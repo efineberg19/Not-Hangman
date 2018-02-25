@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-Allows user to guess letters of a word one by one, but it's not hangman. 
+Allows user to guess letters of a word one by one, but it's not hangman.  
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Not Hangman
