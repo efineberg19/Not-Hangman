@@ -1,6 +1,6 @@
 
 /**
- * Allows user to access and play the game.
+ * Allows user to run the game.
  *
  * @author Beth Fineberg
  * @version 1.0
