@@ -11,7 +11,7 @@ import java.util.Arrays;
  */
 public class NotHangman
 {
-    //sets initial score to 0
+    //sets initial score to zero
     public static int score = 0;
     
     //allows for there to be characters
