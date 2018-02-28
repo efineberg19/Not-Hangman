@@ -4,7 +4,7 @@ import java.util.Arrays;
  * This game with show the user the definition, number of characters, and the first letter
  * with underscores(one per letter) of a word. User can use a drop down menu to pick guess
  * a letter, ask for a hint, or to go on to the next word. The user will be given a score
- * based on their guesses and hints
+ * based on their guesses and hints.
  *
  * @author Beth Fineberg
  * @version 1.0
